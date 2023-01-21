@@ -19,6 +19,10 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nine-777&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nine-777&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
 ![github-user-contribution](https://user-images.githubusercontent.com/97382295/213872063-96c2e170-7ec8-4b62-9484-132c5d4bb347.svg)
