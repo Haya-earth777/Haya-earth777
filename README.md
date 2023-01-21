@@ -11,7 +11,6 @@
   <br>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nine-777&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Nine-777&theme=onedark&show_icons=ture" />
-  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nine-777&theme=dracula
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nine-777&theme=onedark&column=7
