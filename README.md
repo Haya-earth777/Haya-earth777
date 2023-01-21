@@ -2,9 +2,6 @@
   <a href="https://github.com/Nine-777/Nine-777/">
     <img src="https://komarev.com/ghpvc/?username=Nine-777" alt="Nine-777" />
   </a>
-  <a href="http://twitter.com/Nine_earth777">
-    <img height="20" src="https://img.shields.io/twitter/follow/Nine_earth777?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/Nine-777">
     <img height="20" src="https://img.shields.io/github/followers/Nine-777?label=follow&logo=github&style=flat" />
   </a>
@@ -18,9 +15,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Nine-777/contributions.svg" />
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nine-777&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nine-777&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
