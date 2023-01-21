@@ -8,9 +8,6 @@
   <a href="https://stackoverflow.com/users/5720201/Nine-777">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Nine-777/contributions.svg" />
-  </a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nine-777&theme=onedark&column=7
