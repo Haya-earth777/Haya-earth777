@@ -8,6 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nine-777&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
 <hr>
 
 # My Skill (Programming Languages, Frameworks and Tools)
