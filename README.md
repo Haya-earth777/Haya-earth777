@@ -15,7 +15,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,ruby,rails,mysql,github,vscode,docker,discord" /> <br /><br />
   
-# NOW TRAINING
+# Now Training
 
 <img src="https://skillicons.dev/icons?i=typescript,react,vue,aws" /> <br /><br />
 
