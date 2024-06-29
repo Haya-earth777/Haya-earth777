@@ -11,13 +11,17 @@
 <br>
 <hr>
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# Programming Languages, Frameworks
 
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,ruby,rails,mysql,github,vscode,docker,discord" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,ruby,rails,mysql,docker,git,githubactions,md" /> <br /><br />
+
+# Tools
+
+<img src="https://skillicons.dev/icons?i=github,vscode,sentry,discord,gmail" /> <br /><br />
   
 # Now Training
 
-<img src="https://skillicons.dev/icons?i=typescript,react,vue,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,react,aws,linux" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
