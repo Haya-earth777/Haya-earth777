@@ -11,17 +11,32 @@
 <br>
 <hr>
 
-# Programming Languages, Frameworks
+# My Skills
+## Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,ruby,rails,mysql,docker,git,githubactions,md" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,ruby" /> <br /><br />
 
-# Tools
+## Frameworks
 
-<img src="https://skillicons.dev/icons?i=github,vscode,sentry,discord,gmail" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=jquery,react,rails" /> <br /><br />
+
+## Database
+
+<img src="https://skillicons.dev/icons?i=mysql" /> <br /><br />
+
+## Development Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode" /> <br /><br />
+
+## Other Tools
+<img src="https://skillicons.dev/icons?i=sentry,discord,gmail" /> <br /><br />
   
-# Now Training
+## Cloud
 
-<img src="https://skillicons.dev/icons?i=typescript,react,aws,linux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=aws" /> <br /><br />
+
+## Operating System
+<img src="https://skillicons.dev/icons?i=linux" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
