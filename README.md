@@ -24,19 +24,16 @@
 
 <img src="https://skillicons.dev/icons?i=mysql" /> <br /><br />
 
+## Cloud & Operating System
+
+<img src="https://skillicons.dev/icons?i=aws,linux" /> <br /><br />
+
 ## Development Tools
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode" /> <br /><br />
 
 ## Other Tools
 <img src="https://skillicons.dev/icons?i=sentry,discord,gmail" /> <br /><br />
-  
-## Cloud
-
-<img src="https://skillicons.dev/icons?i=aws" /> <br /><br />
-
-## Operating System
-<img src="https://skillicons.dev/icons?i=linux" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
