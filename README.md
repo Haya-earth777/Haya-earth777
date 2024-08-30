@@ -11,14 +11,10 @@
 <br>
 <hr>
 
-# My Skills
+# My Skills & Frameworks
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,ruby" /> <br /><br />
-
-## Frameworks
-
-<img src="https://skillicons.dev/icons?i=jquery,react,rails" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,ruby,jquery,react,rails" /> <br /><br />
 
 ## Database
 
@@ -28,13 +24,9 @@
 
 <img src="https://skillicons.dev/icons?i=aws,linux" /> <br /><br />
 
-## Development Tools
+## Development Tools & Other Tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode" /> <br /><br />
-
-## Other Tools
-<img src="https://skillicons.dev/icons?i=sentry,discord,gmail" /> <br /><br />
-
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,sentry,discord,gmail" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
