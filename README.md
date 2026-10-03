@@ -1,46 +1,41 @@
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haya-earth777&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Haya-earth777&theme=onedark&show_icons=ture" />
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282c34,100:61afef&height=170&section=header&text=Kengo%20Hayata&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20in%20Tokyo&descAlignY=56&descSize=16" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=61AFEF&center=true&vCenter=true&width=520&lines=Rails+%C3%97+React+%C3%97+TypeScript;Building+an+ISMS+compliance+SaaS;Self-taught%2C+product-minded+engineer" alt="typing" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Haya-earth777&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://zenn.dev/haya_tech"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
+  <a href="https://qiita.com/Nine-777"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
+  <a href="https://note.com/97997"><img src="https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/kengohayata"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
+</p>
 
-<br>
-<hr>
+---
 
-# My Skills & Frameworks
-## Languages
+## 👋 About me
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,ruby,jquery,react,rails" /> <br /><br />
+- 🛡️ Software Engineer at **SecureNavi** — building an ISMS certification SaaS
+- 🚀 Initiative lead on the new feature development team
+- 🌱 Career-changer: public sector → self-taught → web engineer
+- ✍️ Writing about what I learn on Zenn / Qiita / note
 
-## Database
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=mysql" /> <br /><br />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,ruby,rails&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,docker,githubactions,linux&theme=dark" />
+</p>
 
-## Cloud & Operating System
+| | |
+|---|---|
+| **Frontend** | TypeScript / React / Next.js |
+| **Backend** | Ruby on Rails |
+| **Infra** | AWS / Docker / GitHub Actions |
 
-<img src="https://skillicons.dev/icons?i=aws,linux" /> <br /><br />
-
-## Development Tools & Other Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,sentry,discord,gmail" /> <br /><br />
-
-<!-- --------------------------------- :) ---------------------------------- -->
-
-<hr>
-
-![github-user-contribution](https://user-images.githubusercontent.com/97382295/213872063-96c2e170-7ec8-4b62-9484-132c5d4bb347.svg)
-
-
-<div align="center">
-  <h1>
-      <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-      <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-      <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-      <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-      <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-  </h1>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61afef,100:282c34&height=100&section=footer" />
+</p>
